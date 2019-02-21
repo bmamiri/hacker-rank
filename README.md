@@ -9,3 +9,6 @@ Sock Merchant<br>
 Counting Valleys<br>
 Jumping on the Clouds<br>
 Repeated String<br>
+
+**Arrays**<br>
+2D Array - DS<br>
