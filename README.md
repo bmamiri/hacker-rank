@@ -8,3 +8,4 @@ https://www.hackerrank.com/interview/interview-preparation-kit
 Sock Merchant<br>
 Counting Valleys<br>
 Jumping on the Clouds<br>
+Repeated String<br>
